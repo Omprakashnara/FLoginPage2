@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FLoginPage/static/css/main.ecf18914.css",
+    "main.js": "/FLoginPage/static/js/main.b1928660.js",
+    "index.html": "/FLoginPage/index.html",
+    "main.ecf18914.css.map": "/FLoginPage/static/css/main.ecf18914.css.map",
+    "main.b1928660.js.map": "/FLoginPage/static/js/main.b1928660.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf18914.css",
+    "static/js/main.b1928660.js"
+  ]
+}
